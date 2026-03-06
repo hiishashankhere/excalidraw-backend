@@ -17,6 +17,7 @@ yarn-error.log*
 .env.*.local
 
 # Sequelize
+temp_auto_push.bat
 sequelize-meta.json
 
 # TypeScript
@@ -27,7 +28,6 @@ sequelize-meta.json
 Thumbs.db
 
 # VS Code
-.vscode/
 
 # Docker
 docker-data/
@@ -37,4 +37,5 @@ pg_data/
 coverage/
 
 # Misc
-*.swp
+*.swp.gitignore
+temp_interactive_push.bat
